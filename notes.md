@@ -1,4 +1,4 @@
-# Kotlin Notes
+# Kotlin Notes - Master the fundamentals and advanced features of the Kotlin
 
 #### 05/07/2023
 
